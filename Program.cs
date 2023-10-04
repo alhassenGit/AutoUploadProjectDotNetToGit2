@@ -4,4 +4,5 @@ Console.WriteLine("New commit1");
 Console.WriteLine("New commit2");
 Console.WriteLine("New commit3");
 Console.WriteLine("New commit4 before restart again");
+Console.WriteLine("New commit5 already done");
 Console.ReadLine();
